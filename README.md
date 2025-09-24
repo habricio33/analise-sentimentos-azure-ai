@@ -43,7 +43,6 @@ Entre as diversas opções de recursos de fala temos a transcrição em tempo re
 
 Acesse o [Language Studio](https://language.azure.com) https://language.azure.com, faça login com sua conta Azure e escolha o recurso de linguagem. Caso já tenha criado um recurso de Azure Language, selecione-o, senão, configure-o. Escolha a opção de Ánalise de Texto e Ánalise de Sentimento. Digite uma frase contendo um sentimento e clique em Run para ver os resultados.  
 
-![Language Studio](img/img5.1.png)
 
 ![Configurando Recurso](img/img5.1.png)
 
