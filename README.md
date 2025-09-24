@@ -27,19 +27,19 @@ Para iniciar acesse o [portal do Azure](https://portal.azure.com) https://portal
 ![Configurando o recurso de Speech](img/img1.2.png)
 
 
-# 2 - Acesse o Azure Speech Studio
+### 2 - Acesse o Azure Speech Studio
 
 Acesse o [portal do Azure Speech Studio](https://speech.microsoft.com)  https://speech.microsoft.com e faça o login com sua conta Azure.
 Escolha a opção  Transcrição em tempo real. Para testar a transcrição você pode, fazer upload de um arquivo de áudio (.wav, .mp3) ou usar o microfone para gravar diretamente. O Speech Studio vai mostrar a transcrição e permitir ajustes.
 
-# 2.1 - Transcrição em tempo real
+### 2.1 - Transcrição em tempo real
 
 Entre as diversas opções de recursos de fala temos a transcrição em tempo real na qual você pode gravar ou importar um áudio para ser transcrito em formato texto ou em JSON.
 
 ![figura 1](img/img1.png)
 
 
-# 3 - Acesse o Language Studio
+### 3 - Acesse o Language Studio
 
 Acesse o [Language Studio](https://language.azure.com) https://language.azure.com, faça login com sua conta Azure e escolha o recurso de linguagem. Caso já tenha criado um recurso de Azure Language, selecione-o, senão, configure-o. Escolha a opção de Ánalise de Texto e Ánalise de Sentimento. Digite uma frase contendo um sentimento e clique em Run para ver os resultados.  
 
@@ -54,4 +54,4 @@ Acesse o [Language Studio](https://language.azure.com) https://language.azure.co
 
 # Integrações
 
-Também é possível também fazer integrações com aplicações a serem desenvolvidas (como por exemplo C#, Python etc) instalando o SDK do Azure Speech. 
+Também é possível também fazer integrações com aplicações a serem desenvolvidas (como por exemplo C#, Python etc) instalando o SDK do Azure Speech. Esse tópico não faz parte do desafio e serve apenas de informação. 
